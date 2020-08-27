@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"An eye for an eye will make the whole world blind." - Mahatma Gandhi
 Use the left arrow to go back!
